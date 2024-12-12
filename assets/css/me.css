@@ -1,0 +1,15 @@
+h1 {
+    font-size: 30px;
+    color: palevioletred;
+    text-align: center;
+}
+p{
+    font-size: 18px;
+}
+img {
+    width: 50%;
+    height: 500px;
+}
+body {
+    background-color: beige;
+}
